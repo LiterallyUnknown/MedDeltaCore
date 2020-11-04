@@ -1,0 +1,3 @@
+[submodule "Mednafen-GitHub"]
+	path = Mednafen-GitHub
+	url = https://github.com/LiterallyUnknown/Mednafen-GitHub
